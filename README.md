@@ -1,3 +1,8 @@
+                                                   ![LOGO UNIVERSITAS PELITA BANGSA](https://user-images.githubusercontent.com/115480692/197403776-592efd2d-8cb0-4713-ad91-ec5bdbc44020.png)
+
+
+
+
 Nama : Taufik Hidayat
 
 Kelas : TI.22.B.2
@@ -36,7 +41,8 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
 
     4 . Klik/Centang pilihan Add Python.exe to PATH agar Python dapat dipanggil dari CMD.
 
-    
+    ![2](https://user-images.githubusercontent.com/115480692/197403414-5d01609c-0270-4b99-ac9c-662fd3bb16d3.png)
+
 
     5 . Klik Next untuk melanjutkan langkah berikutnya, dan selesai untuk mengakhiri instalasi.
 
@@ -47,17 +53,20 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
 
      2 . lalu kalian klik CMD
 
-    ![Gambar 3](Screenshot/3.png)
+    ![3](https://user-images.githubusercontent.com/115480692/197403434-23e50d01-0dc5-40f6-8841-e62655f98887.png)
+
 
      3 . Setelah jendela CMD terbuka, maka tuliskan perintah python. lihat pada gambar.
 
-     ![Gambar 4](Screenshot/4.png)
+     ![4](https://user-images.githubusercontent.com/115480692/197403448-86ab6cbb-a306-4076-b8c8-2a03990180c7.png)
+
 
      4 . Jika tampilan CMD sudah menerangkan Versi Python maka python sudah terinstal dan dapat dipergunakan.
 
      5 . Lalu kalian tuliskan print("hello")  untuk menguji berjalannya python pada CMD.
 
-     ![Gambar 5](Screenshot/5.png)
+     ![5](https://user-images.githubusercontent.com/115480692/197403457-6acf76e2-b7ca-49f2-a8ce-63193887f955.png)
+
 
 * **Menjalankan IDLE**
 
@@ -68,17 +77,19 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
     
     1 . Ketik di pencarian "IDLE"
 
-    ![Gambar 6](Screenshot/6.png)
+    ![6](https://user-images.githubusercontent.com/115480692/197403467-41df82af-3818-4638-9771-788f79b68228.png)
+
 
     2 . Lalu klik IDLE
 
     3 . Setelah jendela IDLE terbuka, Klik File kemudian New Files
 
-    ![Gambar 7](Screenshot/7.png)
+    ![7](https://user-images.githubusercontent.com/115480692/197403479-468d1b1d-734b-465b-b98d-c681c6f3f1f1.png)
+
 
     4 . Maka jendela baru akan terbuka
 
-    ![Gambar 8](Screenshot/8.png)
+    ![8](https://user-images.githubusercontent.com/115480692/197403485-24c77769-1d17-4517-87f6-ed3c5fe0f386.png)
 
 
     3 . Selesai
@@ -109,7 +120,8 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
         print("Hasil pembagian {1}/{0}=%s".
         format(a,b) %(a/b))
 
-    ![Gambar 9](Screenshot/9.png)
+    ![9](https://user-images.githubusercontent.com/115480692/197403498-a8e55cc7-c54f-49db-bec0-45a785a1c1d5.png)
+
 
     2 . Kemudian klik Run dan Run Module untuk melihat hasil
     
@@ -119,7 +131,8 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
 
      Maka hasil Penggabungan ,Penjumlahan, dan Pembagian akan terdeklarasi.
 
-     ![Gambar 10](Screenshot/10.png)
+     ![10](https://user-images.githubusercontent.com/115480692/197403513-bed666ed-6dd4-417b-a597-efd6d59fc922.png)
+
 
     3 . Selesai
 
@@ -128,15 +141,18 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
 
     1 . Download PyCharm (https://www.jetbrains.com/pycharm/)
 
-    ![Gambar 11](Screenshot/11.png)
+    ![11](https://user-images.githubusercontent.com/115480692/197403537-1bcd2bd5-0efc-4692-9047-7569cef49e98.png)
+
 
     2 . Setelah kalian mendownload PyCharm lalu kalian instal dan buka aplikasi nya
 
-    ![Gambar 12](Screenshot/12.png)
+    ![12](https://user-images.githubusercontent.com/115480692/197403560-bf64aad0-78ba-47ff-9050-ff79853dee45.png)
+
 
     3 . Lalu klik New Project lalu Crate
 
-    ![Gambar 13](Screenshot/13.png)
+    ![13](https://user-images.githubusercontent.com/115480692/197403575-82f1fe52-a3e6-47df-9a34-5b22b3f83fb7.png)
+
 
     4 . Lalu tuliskan perintah untuk mencari jari jari lingkaran
 
@@ -147,13 +163,13 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
         print("Luas lingkaran :", 1)
         print("Keliling lingkaran :",k)
 
-    ![Gambar 14](Screenshot/14.png)
+    ![14](https://user-images.githubusercontent.com/115480692/197403580-43c119eb-eb87-4799-a80a-ad8cc7d6b5a5.png)
 
     5 . Kemudian klik Run untuk melihat hasil
 
     Isi jari jari lingkaran : 10
 
-    ![Gambar 15](Screenshot/15.png)
+    ![15](https://user-images.githubusercontent.com/115480692/197403591-a0e4137b-3350-4b26-973d-56928bac0bb3.png)
 
     6 . Selesai
 
