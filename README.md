@@ -1,7 +1,7 @@
-# *INSTALASI DAN PENGGUNAAN PYTHON*
+# INSTALASI DAN PENGGUNAAN PYTHON
 Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data.
 
-Pembahasan kali ini akan mengulas 4 bagian dalam Python, yaitu :
+## Langkah-langkah:
 1. Instalasi Python
 2. menggunakan Python Console
 3. membuat dan mengaplikasikan IDLE (Teks Editor)
@@ -12,6 +12,7 @@ Pembahasan kali ini akan mengulas 4 bagian dalam Python, yaitu :
     *INSTALASI PYTHON*
 
     1 . Akses web resmi Python pada (python.org).
+    
 
     2 . Kemudian klik download pada daftar opsi pilihan di web Python.
 
