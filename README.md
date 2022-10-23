@@ -1,8 +1,6 @@
 ![a](https://user-images.githubusercontent.com/115480692/197404636-ec08f746-79ed-4472-9c70-3eb5170fdaf1.png)
 
-
-
-
+#
 
 
 Nama : Taufik Hidayat
