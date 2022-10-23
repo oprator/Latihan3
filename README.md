@@ -172,4 +172,5 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
     ![15](https://user-images.githubusercontent.com/115480692/197403591-a0e4137b-3350-4b26-973d-56928bac0bb3.png)
 
     6 . Selesai
-
+    
+    # TERIMA KASIH
