@@ -13,6 +13,10 @@ Tugas : Bahasa Pemrograman
 
 #
 
+Assalamualaikum wr.wb saya Taufik akan menjelaskan tutorial instalasi dan penggunaan python
+
+#
+
 # INSTALASI DAN PENGGUNAAN PYTHON
 Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data.
 
