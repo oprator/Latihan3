@@ -1,4 +1,5 @@
-![LOGO UNIVERSITAS PELITA BANGSA](https://user-images.githubusercontent.com/115480692/197403805-2d946123-6a24-4130-969b-9b7e8afdaa75.png)
+![a](https://user-images.githubusercontent.com/115480692/197404404-fbac6ed2-e565-4b72-b2ca-56cc4b7eab1f.png)
+
 
 
 
