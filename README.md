@@ -173,7 +173,8 @@ Python merupakan sebuah bahasa pemrograman yang dapat digunakan untuk membuat ap
 
     Isi jari jari lingkaran : 10
 
-    ![15](https://user-images.githubusercontent.com/115480692/197403591-a0e4137b-3350-4b26-973d-56928bac0bb3.png)
+   ![15](https://user-images.githubusercontent.com/115480692/198174763-5542eb8b-cb84-4951-9cf2-9243cb53636b.png)
+
 
     6 . Selesai
     
